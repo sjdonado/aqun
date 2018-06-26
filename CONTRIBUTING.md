@@ -39,7 +39,7 @@ More info [Git Syleguide de Udacity](http://udacity.github.io/git-styleguide/).
 - [Bug report](#bug-report)
 - [Submitting changes](#submitting-changes)
 
-### Bug report
+## Bug report
 You have to create an issue in the preferable that contains the following data:
 * **Problem description**
 * **Steps to produce the problem**
@@ -47,7 +47,7 @@ You have to create an issue in the preferable that contains the following data:
 * **Real behavior**
 * **Extra information**
 
-### Submitting changes
+## Submitting changes
 * Make a fork with your github accounts.
 * Checkout in develop branch from your fork copy.
 * Create a new branch from **develop**:
