@@ -6,7 +6,7 @@ This platform aims to allow students to exchange questions and answers regarding
 
 ## Development setup
 ```
-npm install
+npm install sails -g
 docker run -it --name "postgres" -p 5432:5432 postgres
 ```
 ## Contributing
