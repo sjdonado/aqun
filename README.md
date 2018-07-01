@@ -5,9 +5,21 @@
 This platform aims to allow students to exchange questions and answers regarding academic areas, managing to control and management system for their users, where there will be certain requirements and standards to be able to ask questions or main actions related to its use.
 
 ## Development setup
+
+* **Editor config:**
 ```
-npm install
-docker run -it --name "postgres" -p 5432:5432 postgres
+{
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+}
+```
+* **VS extensions:**
+Node.js Extension Pack
+
+* **Dependencies:**
+```
+npm install sails -g
 ```
 ## Contributing
 Please check out the [CONTRIBUTING](//github.com/OpenSourceUN/aqun/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
